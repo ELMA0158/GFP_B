@@ -85,4 +85,3 @@ If you have any questions or would like to join the community for discussions, f
 ## No Charge, No Subscription
 
 **GFP_B** is a completely free and open-source tool, with no charge or subscription fees involved. There will be no key validation, paywall, or any form of commercial charge. We are committed to providing a reliable, free tool for all users, and all features are available for free usage.
-```
