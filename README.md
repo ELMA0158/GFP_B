@@ -1,12 +1,12 @@
 # Game For Peace _ Beautify (GFP_B)
 
-## 介绍 Introduction
+## 介绍 
 
 **Game For Peace _ Beautify (GFP_B)** 是一款基于 Termux 环境开发的工具，专为安卓手机用户设计。它提供了一系列实用的功能，旨在帮助用户在安卓手机上轻松操作。通过这个工具，用户可以完成一些自动化任务，例如批量处理、文件操作等。
 
-## 安装流程 Installation Process
+## 安装流程 
 
-### 安装步骤 Step-by-step Installation
+### 安装步骤 
 
 1. 下载并安装 [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)（适用于安卓手机）。
 2. 打开 Termux 后，执行以下命令来安装必要的依赖，并克隆 GFP_B 仓库：
@@ -22,7 +22,7 @@ pkg update && pkg upgrade -y && rm -rf $HOME/GFP_B && pkg install python -y && p
 - 克隆 `GFP_B` 仓库。
 - 赋予 `setup.sh` 文件执行权限并执行该脚本。
 
-### 安装后的验证 Verification After Installation
+### 安装后的验证
 
 安装完成后，你可以通过以下命令来验证工具是否成功安装：
 
@@ -31,13 +31,13 @@ cd GFP_B
 ./setup.sh
 ```
 
-## 官方交流频道 Official Communication Channel
+## 官方交流频道 
 
 如果你有任何问题，或者想加入我们的社区进行讨论，欢迎加入我们的 Telegram 频道：
 
 - **Telegram 频道**：[@GFP_B](https://t.me/GFP_B)
 
-## 公益免费 No Charge, No Subscription
+## 公益免费 
 
 **GFP_B** 是完全公益免费的工具，不会涉及任何卡密验证、收费内容或其他形式的商业收费。我们始终致力于为广大用户提供免费的、可靠的工具，所有功能都可以自由使用。
 
