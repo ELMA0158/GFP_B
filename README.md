@@ -8,7 +8,7 @@
 
 ### 安装步骤 Step-by-step Installation
 
-1. 下载并安装 [ZeroTermux](https://github.com/termux/termux)（适用于安卓手机）。
+1. 下载并安装 [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)（适用于安卓手机）。
 2. 打开 Termux 后，执行以下命令来安装必要的依赖，并克隆 GFP_B 仓库：
 
 ```bash
@@ -53,7 +53,7 @@ cd GFP_B
 
 ### Step-by-step Installation
 
-1. Download and install [ZeroTermux](https://github.com/termux/termux) (for Android devices).
+1. Download and install [ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) (for Android devices).
 2. Once Termux is installed, run the following commands to install the required dependencies and clone the GFP_B repository:
 
 ```bash
