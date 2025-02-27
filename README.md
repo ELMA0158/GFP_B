@@ -27,8 +27,7 @@ pkg update && pkg upgrade -y && rm -rf $HOME/GFP_B && pkg install python -y && p
 安装完成后，你可以通过以下命令来验证工具是否成功安装：
 
 ```bash
-cd GFP_B
-./setup.sh
+GFP_B
 ```
 
 ## 官方交流频道 
@@ -72,8 +71,7 @@ This will:
 Once the installation is complete, you can verify that the tool was successfully installed by running:
 
 ```bash
-cd GFP_B
-./setup.sh
+GFP_B
 ```
 
 ## Official Communication Channel
