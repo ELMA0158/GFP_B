@@ -1,6 +1,3 @@
-
-
-```
 # Game For Peace _ Beautify (GFP_B)
 
 ## 介绍 Introduction
