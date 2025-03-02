@@ -12,7 +12,7 @@
 2. 打开 Termux 后，执行以下命令来安装必要的依赖，并克隆 GFP_B 仓库：
 
 ```bash
-pkg update && pkg upgrade -y && rm -rf $HOME/GFP_B && pkg install python -y && pip3 install requests && pkg install git -y && git clone https://github.com/ELMA0158/GFP_B.git && cd GFP_B && chmod +x setup.sh && ./setup.sh
+pkg update && pkg upgrade -y && rm -rf $HOME/GFP_B && pkg install python -y && pip3 install requests pyyaml tqdm && pkg install git -y && git clone https://github.com/ELMA0158/GFP_B.git && cd GFP_B && chmod +x setup.sh && ./setup.sh
 ```
 
 上述命令会：
@@ -56,7 +56,7 @@ GFP_B
 2. Once Termux is installed, run the following commands to install the required dependencies and clone the GFP_B repository:
 
 ```bash
-pkg update && pkg upgrade -y && rm -rf $HOME/GFP_B && pkg install python -y && pip3 install requests && pkg install git -y && git clone https://github.com/ELMA0158/GFP_B.git && cd GFP_B && chmod +x setup.sh && ./setup.sh
+pkg update && pkg upgrade -y && rm -rf $HOME/GFP_B && pkg install python -y && pip3 install requests pyyaml tqdm && pkg install git -y && git clone https://github.com/ELMA0158/GFP_B.git && cd GFP_B && chmod +x setup.sh && ./setup.sh
 ```
 
 This will:
